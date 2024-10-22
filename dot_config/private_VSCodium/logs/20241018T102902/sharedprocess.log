@@ -1,0 +1,72 @@
+2024-10-18 10:29:38.612 [info] Getting Manifest... ms-python.python
+2024-10-18 10:29:42.061 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"}}
+2024-10-18 10:29:43.279 [info] Getting Manifest... ms-python.debugpy
+2024-10-18 10:29:43.890 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-18 10:30:14.192 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-10-18 10:30:14.260 [info] Renamed to /home/bitraven/.vscode-oss/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-10-18 10:30:14.344 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-18 10:30:20.329 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal: ms-python.python
+2024-10-18 10:30:20.398 [info] Renamed to /home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal
+2024-10-18 10:30:20.478 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:30:20.478 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:30:20.482 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-18 10:30:24.380 [info] Getting Manifest... formulahendry.code-runner
+2024-10-18 10:30:25.134 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"}}
+2024-10-18 10:30:27.222 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal: formulahendry.code-runner
+2024-10-18 10:30:27.226 [info] Renamed to /home/bitraven/.vscode-oss/extensions/formulahendry.code-runner-0.12.2-universal
+2024-10-18 10:30:27.241 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:30:27.306 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-18 10:30:38.314 [info] Getting Manifest... esbenp.prettier-vscode
+2024-10-18 10:30:39.169 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"}}
+2024-10-18 10:30:45.498 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0-universal: esbenp.prettier-vscode
+2024-10-18 10:30:45.566 [info] Renamed to /home/bitraven/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0-universal
+2024-10-18 10:30:45.583 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:30:45.606 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-18 10:30:58.691 [info] Getting Manifest... enkia.tokyo-night
+2024-10-18 10:30:59.433 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"}}
+2024-10-18 10:31:00.424 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/enkia.tokyo-night-1.0.9-universal: enkia.tokyo-night
+2024-10-18 10:31:00.492 [info] Renamed to /home/bitraven/.vscode-oss/extensions/enkia.tokyo-night-1.0.9-universal
+2024-10-18 10:31:00.503 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:31:00.570 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)
+2024-10-18 10:34:12.517 [info] Getting Manifest... sdras.night-owl
+2024-10-18 10:34:14.015 [info] Installing extension: sdras.night-owl {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json","path":"/home/bitraven/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.94.2","date":"2024-10-12T21:13:55.703Z"}}
+2024-10-18 10:34:16.206 [info] Extracted extension to file:///home/bitraven/.vscode-oss/extensions/sdras.night-owl-2.0.1-universal: sdras.night-owl
+2024-10-18 10:34:16.209 [info] Renamed to /home/bitraven/.vscode-oss/extensions/sdras.night-owl-2.0.1-universal
+2024-10-18 10:34:16.222 [info] Extension installed successfully: sdras.night-owl vscode-userdata:/home/bitraven/.vscode-oss/extensions/extensions.json
+2024-10-18 10:34:16.289 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bitraven/.vscode-oss/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44057)
+    at Ei (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44164)
+    at Fn.toFileSystemProviderError (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:28526)
+    at Fn.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:20493)
+    at async eu.stat (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:101677)
+    at async Jl.onDidFilesChange (file:///usr/share/vscodium/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:79899)

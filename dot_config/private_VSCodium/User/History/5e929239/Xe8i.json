@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}

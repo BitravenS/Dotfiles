@@ -1,0 +1,13 @@
+[Added Associations]
+application/pdf=brave-browser.desktop;
+image/jpeg=org.gnome.Loupe.desktop;swappy.desktop;firefox.desktop;brave-browser.desktop;
+
+[Default Applications]
+application/pdf=brave-browser.desktop;
+image/jpeg=org.gnome.Loupe.desktop;
+inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/eclipse+installer=_opt_eclipse-installer_.desktop
+image/png=org.gnome.Loupe.desktop
+image/jpg=org.gnome.Loupe.desktop
+image/jepg=org.gnome.Loupe.desktop
+image/gif=org.gnome.Loupe.desktop

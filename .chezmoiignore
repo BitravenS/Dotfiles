@@ -1,0 +1,13 @@
+README.*
+
+# Neovim
+**/autoload/
+**/autoload/**/*
+**/plugged/
+**/plugged/**/*
+**/yankring_history*.txt
+
+# other
+".config/BraveSoftware/**"
+"**/*.key"
+"**/*.json"

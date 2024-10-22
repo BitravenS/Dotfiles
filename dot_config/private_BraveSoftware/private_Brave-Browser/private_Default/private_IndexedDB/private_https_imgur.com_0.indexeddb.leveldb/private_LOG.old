@@ -1,0 +1,5 @@
+2024/10/18-08:33:56.457 76f Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/18-08:33:56.457 76f Recovering log #15
+2024/10/18-08:33:56.457 76f Reusing old log /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000015.log 
+2024/10/18-08:33:56.458 76f Delete type=2 #13
+2024/10/18-08:33:56.596 912 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

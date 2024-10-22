@@ -1,0 +1,7 @@
+2024/10/20-00:03:59.386 ae5 Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/20-00:03:59.387 ae5 Recovering log #3
+2024/10/20-00:03:59.424 ae5 Reusing old log /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2024/10/20-01:06:14.633 ae5 Level-0 table #5: started
+2024/10/20-01:06:14.713 ae5 Level-0 table #5: 1127806 bytes OK
+2024/10/20-01:06:14.718 ae5 Delete type=0 #3
+2024/10/20-01:06:14.719 ae5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2024/10/22-16:05:12.814 6bc Creating DB /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/WebStorage/44/IndexedDB/indexeddb.leveldb since it was missing.
+2024/10/22-16:05:12.912 6bc Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/WebStorage/44/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/10/22-16:05:41.450 6be Level-0 table #5: started
+2024/10/22-16:05:41.452 6be Level-0 table #5: 7599 bytes OK
+2024/10/22-16:05:41.458 6be Delete type=0 #3
+2024/10/22-16:05:41.459 6be Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,23 @@
+2024-10-18 10:29:05.342 [info] Started local extension host with pid 6965.
+2024-10-18 10:29:05.349 [info] Started initializing default profile extensions in extensions installation folder. file:///home/bitraven/.vscode-oss/extensions
+2024-10-18 10:29:05.558 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/bitraven/.vscode-oss/extensions
+2024-10-18 10:29:08.692 [info] [perf] Render performance baseline is 29ms
+2024-10-18 10:29:26.415 [error] [network] #1: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-10-18 10:29:28.181 [error] [network] #3: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-10-18 10:29:31.822 [error] [network] #7: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-10-18 10:29:44.663 [error] [network] #13: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-10-18 10:30:05.713 [error] [network] #18: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-10-18 10:30:20.856 [error] spawn /home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python-env-tools/bin/pet ENOENT: Error: spawn /home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-10-18 10:33:39.886 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-10-18 10:33:43.442 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2051686)
+	at oe (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2049646)
+	at Immediate.<anonymous> (/home/bitraven/.vscode-oss/extensions/ms-python.python-2024.16.1-universal/out/client/extension.js:2:2045940)
+	at process.processImmediate (node:internal/timers:483:21)

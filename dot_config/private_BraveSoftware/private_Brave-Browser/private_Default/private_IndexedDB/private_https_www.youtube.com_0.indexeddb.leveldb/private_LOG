@@ -1,0 +1,12 @@
+2024/10/22-16:03:55.647 6bd Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/22-16:03:55.647 6bd Recovering log #289
+2024/10/22-16:03:55.647 6bd Reusing old log /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000289.log 
+2024/10/22-16:58:56.319 6bd Level-0 table #294: started
+2024/10/22-16:58:56.395 6bd Level-0 table #294: 1485041 bytes OK
+2024/10/22-16:58:56.399 6bd Delete type=0 #289
+2024/10/22-17:05:41.936 6bd Compacting 1@1 + 1@2 files
+2024/10/22-17:05:42.006 6bd Generated table #295@1: 330 keys, 58410 bytes
+2024/10/22-17:05:42.006 6bd Compacted 1@1 + 1@2 files => 58410 bytes
+2024/10/22-17:05:42.073 6bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/22-17:05:42.074 6bd Delete type=2 #291
+2024/10/22-17:05:42.074 6bd Delete type=2 #294

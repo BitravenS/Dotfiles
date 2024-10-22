@@ -1,0 +1,18 @@
+2024/10/19-17:42:30.527 1f6f Creating DB /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2024/10/19-17:42:30.532 1f6f Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/19-17:42:45.570 1f6f Level-0 table #5: started
+2024/10/19-17:42:45.700 1f6f Level-0 table #5: 2636 bytes OK
+2024/10/19-17:42:45.961 1f6f Delete type=0 #3
+2024/10/19-17:42:45.962 1f6f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/19-17:44:24.096 1f6f Level-0 table #7: started
+2024/10/19-17:44:24.098 1f6f Level-0 table #7: 2342 bytes OK
+2024/10/19-17:44:24.101 1f6f Delete type=0 #4
+2024/10/19-17:44:24.101 1f6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/19-17:44:24.102 1f6f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02"\x01$\x005\x009\x00b\x00a\x00d\x00c\x00b\x000\x00-\x00a\x00a\x004\x002\x00-\x004\x00f\x006\x00e\x00-\x008\x000\x008\x005\x00-\x00f\x002\x009\x00f\x002\x00a\x005\x007\x003\x007\x00c\x00b\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1
+2024/10/19-17:44:24.102 1f6f Compacting 1@1 + 1@2 files
+2024/10/19-17:44:24.104 1f6f Generated table #8@1: 60 keys, 1366 bytes
+2024/10/19-17:44:24.104 1f6f Compacted 1@1 + 1@2 files => 1366 bytes
+2024/10/19-17:44:24.107 1f6f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/19-17:44:24.107 1f6f Delete type=2 #5
+2024/10/19-17:44:24.107 1f6f Delete type=2 #7
+2024/10/19-17:44:24.108 1f6f Manual compaction at level-1 from '\x00\x02\x02"\x01$\x005\x009\x00b\x00a\x00d\x00c\x00b\x000\x00-\x00a\x00a\x004\x002\x00-\x004\x00f\x006\x00e\x00-\x008\x000\x008\x005\x00-\x00f\x002\x009\x00f\x002\x00a\x005\x007\x003\x007\x00c\x00b\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1 .. (end); will stop at (end)

@@ -1,0 +1,21 @@
+2024/10/22-12:07:42.709 4 Reusing MANIFEST /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/10/22-12:07:42.711 4 Recovering log #110
+2024/10/22-12:07:42.712 4 Reusing old log /home/bitraven/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000110.log 
+2024/10/22-12:31:28.954 5 Level-0 table #114: started
+2024/10/22-12:31:29.021 5 Level-0 table #114: 26508 bytes OK
+2024/10/22-12:31:29.025 5 Delete type=0 #110
+2024/10/22-15:22:55.815 5 Level-0 table #116: started
+2024/10/22-15:22:55.883 5 Level-0 table #116: 30973 bytes OK
+2024/10/22-15:22:55.887 5 Delete type=0 #113
+2024/10/22-17:04:34.532 5 Level-0 table #118: started
+2024/10/22-17:04:34.599 5 Level-0 table #118: 27343 bytes OK
+2024/10/22-17:04:34.603 5 Delete type=0 #115
+2024/10/22-17:04:34.604 5 Compacting 4@0 + 1@1 files
+2024/10/22-17:04:34.675 5 Generated table #119@0: 4009 keys, 124264 bytes
+2024/10/22-17:04:34.675 5 Compacted 4@0 + 1@1 files => 124264 bytes
+2024/10/22-17:04:34.679 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/22-17:04:34.679 5 Delete type=2 #109
+2024/10/22-17:04:34.679 5 Delete type=2 #111
+2024/10/22-17:04:34.679 5 Delete type=2 #114
+2024/10/22-17:04:34.679 5 Delete type=2 #116
+2024/10/22-17:04:34.679 5 Delete type=2 #118
