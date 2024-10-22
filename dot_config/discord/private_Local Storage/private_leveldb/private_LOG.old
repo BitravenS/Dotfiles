@@ -1,5 +1,0 @@
-2024/10/19-17:40:38.733 21119 Creating DB /home/bitraven/.config/discord/Local Storage/leveldb since it was missing.
-2024/10/19-17:40:39.064 21119 Reusing MANIFEST /home/bitraven/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/10/19-17:45:16.790 2111a Level-0 table #5: started
-2024/10/19-17:45:16.878 2111a Level-0 table #5: 3309454 bytes OK
-2024/10/19-17:45:16.947 2111a Delete type=0 #3

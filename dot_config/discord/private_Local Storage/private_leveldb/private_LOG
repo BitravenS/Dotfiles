@@ -1,9 +1,0 @@
-2024/10/19-18:38:41.124 c94 Reusing MANIFEST /home/bitraven/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/10/19-18:38:41.130 c94 Recovering log #4
-2024/10/19-18:38:41.130 c94 Reusing old log /home/bitraven/.config/discord/Local Storage/leveldb/000004.log 
-2024/10/19-18:41:42.077 c95 Level-0 table #8: started
-2024/10/19-18:41:42.154 c95 Level-0 table #8: 839576 bytes OK
-2024/10/19-18:41:42.158 c95 Delete type=0 #4
-2024/10/19-19:18:51.815 c95 Level-0 table #10: started
-2024/10/19-19:18:51.882 c95 Level-0 table #10: 46730 bytes OK
-2024/10/19-19:18:51.885 c95 Delete type=0 #7
