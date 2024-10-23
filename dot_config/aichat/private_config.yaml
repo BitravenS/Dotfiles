@@ -1,4 +1,0 @@
-model: openai
-clients:
-- type: openai
-  api_key: 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
